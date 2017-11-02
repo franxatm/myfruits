@@ -1,0 +1,11 @@
+/*! Place your custom styles here */
+#mainlogo {
+    width: 200px;
+    max-height: 102px;
+}
+
+@media all and (min-width: 991px){
+  .bar-2 .logo{
+    position: relative;
+  }
+}
